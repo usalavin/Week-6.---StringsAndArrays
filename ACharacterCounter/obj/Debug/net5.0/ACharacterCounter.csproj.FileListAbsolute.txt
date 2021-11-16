@@ -1,0 +1,16 @@
+C:\Users\Nikita\source\repos\StringsAndArrays\ACharacterCounter\bin\Debug\net5.0\ACharacterCounter.exe
+C:\Users\Nikita\source\repos\StringsAndArrays\ACharacterCounter\bin\Debug\net5.0\ACharacterCounter.deps.json
+C:\Users\Nikita\source\repos\StringsAndArrays\ACharacterCounter\bin\Debug\net5.0\ACharacterCounter.runtimeconfig.json
+C:\Users\Nikita\source\repos\StringsAndArrays\ACharacterCounter\bin\Debug\net5.0\ACharacterCounter.runtimeconfig.dev.json
+C:\Users\Nikita\source\repos\StringsAndArrays\ACharacterCounter\bin\Debug\net5.0\ACharacterCounter.dll
+C:\Users\Nikita\source\repos\StringsAndArrays\ACharacterCounter\bin\Debug\net5.0\ref\ACharacterCounter.dll
+C:\Users\Nikita\source\repos\StringsAndArrays\ACharacterCounter\bin\Debug\net5.0\ACharacterCounter.pdb
+C:\Users\Nikita\source\repos\StringsAndArrays\ACharacterCounter\obj\Debug\net5.0\ACharacterCounter.csproj.AssemblyReference.cache
+C:\Users\Nikita\source\repos\StringsAndArrays\ACharacterCounter\obj\Debug\net5.0\ACharacterCounter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\source\repos\StringsAndArrays\ACharacterCounter\obj\Debug\net5.0\ACharacterCounter.AssemblyInfoInputs.cache
+C:\Users\Nikita\source\repos\StringsAndArrays\ACharacterCounter\obj\Debug\net5.0\ACharacterCounter.AssemblyInfo.cs
+C:\Users\Nikita\source\repos\StringsAndArrays\ACharacterCounter\obj\Debug\net5.0\ACharacterCounter.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\source\repos\StringsAndArrays\ACharacterCounter\obj\Debug\net5.0\ACharacterCounter.dll
+C:\Users\Nikita\source\repos\StringsAndArrays\ACharacterCounter\obj\Debug\net5.0\ref\ACharacterCounter.dll
+C:\Users\Nikita\source\repos\StringsAndArrays\ACharacterCounter\obj\Debug\net5.0\ACharacterCounter.pdb
+C:\Users\Nikita\source\repos\StringsAndArrays\ACharacterCounter\obj\Debug\net5.0\ACharacterCounter.genruntimeconfig.cache
